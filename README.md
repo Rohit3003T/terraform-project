@@ -38,5 +38,5 @@ This Terraform project deploys an **EC2 instance** inside a **private subnet** a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/terraform-secure-ec2-s3.git
-   cd terraform-secure-ec2-s3
+   git clone https://github.com/Rohit3003T/terraform-project.git
+   cd terraform-project
